@@ -4,12 +4,13 @@ _Um jardim digital (repositório) para crescer o conhecimento._
 
 ## Por onde começar?
 
+https://manoelmozzer.github.io/zettelkasten-juridico/
+
 Acesse o site e navegue pelas minhas anotações. Os cartões são aleatórios a cada vez que se acessa: cada cartão deve ser suficiente por si só.
 
 ## Sobre o Zettelkasten
 
-* O zettelkasten é um sistema de anotações conectadas, estilo uma wiki pessoal.
-* https://zettelkasten.de/
+* O [zettelkasten](https://zettelkasten.de/) é um sistema de anotações conectadas, estilo uma wiki pessoal.
 * Siga o Princípio da Atomicidade.
 * Vincule as notas e explique os vínculos.
 * Atente-se para criar e conectar conhecimento, não apenas vincular notas.
