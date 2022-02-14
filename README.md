@@ -17,7 +17,7 @@ Acesse o site e navegue pelas minhas anotações. Os cartões são aleatórios a
 * Facilite a entrada de novos conhecimentos.
 * Não se preocupe em organizar ou categorizar suas notas.
 
-> Um bibliotecário pergunta "Onde devo _armazenar_ esta nota?" Seu objetivo é manter uma taxonomia de conhecimento acessível a todos, o que significa que eles devem usar apenas as categorias mais óbvias. Um escritor pergunta "Em que circunstâncias vou querer topar com esta nota?"<br>
+> Um bibliotecário pergunta "Onde devo _armazenar_ esta nota?" Seu objetivo é manter uma taxonomia de conhecimento acessível a todos, o que significa que eles devem usar apenas as categorias mais óbvias. Um escritor pergunta "Em que circunstâncias vou querer topar com esta nota?"  
 > https://fortelabs.co/blog/how-to-take-smart-notes/
 
 ## Princípios
